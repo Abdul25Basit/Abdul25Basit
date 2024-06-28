@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdul+Basit)
 
-4th-year Computer Engineering student with a passion for web development and a keen interest in learning AI/ML. Always eager to explore new technologies and take on challenging projects. Let's connect and collaborate on innovative solutions! 🚀
+I am a final year Computer Engineering student with a passion for web development and a keen interest in learning AI/ML. Always eager to explore new technologies and take on challenging projects. Let's connect and collaborate on innovative solutions! 🚀
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=50&lines=Web+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Exploring)](https://git.io/typing-svg)
 

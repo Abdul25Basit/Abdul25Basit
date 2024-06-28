@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Basit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hi there! I'm a 4th-year CSE student with a passion for web development and a keen interest in learning AI/ML. I'm always eager to explore new technologies and take on challenging projects. Let's connect and collaborate on innovative solutions! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul25basit&label=Profile%20views&color=0e75b6&style=flat" alt="abdul25basit" /> </p>
 

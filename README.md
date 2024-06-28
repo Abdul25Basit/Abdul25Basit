@@ -1,5 +1,7 @@
+👋 Hi there! I'm a 4th-year ACSE student with a passion for web development and a keen interest in learning AI/ML. I'm always eager to explore new technologies and take on challenging projects. Let's connect and collaborate on innovative solutions! 🚀
 
-<h1 align="center">Hi 👋, I'm Abdul Basit</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&height=50&lines=Web+Developer;AI%2FML+Enthusiast;Always+Learning+%26+Exploring)](https://git.io/typing-svg)
+
 <h3 align="center">👋 Hi there! I'm a 4th-year CSE student with a passion for web development and a keen interest in learning AI/ML. I'm always eager to explore new technologies and take on challenging projects. Let's connect and collaborate on innovative solutions! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul25basit&label=Profile%20views&color=0e75b6&style=flat" alt="abdul25basit" /> </p>
